@@ -1,0 +1,77 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "hashmap",
+            "request": "launch",
+            "mainClass": "hashmap",
+            "projectName": "java_6479ecf8"
+        },
+        {
+            "type": "java",
+            "name": "hashset",
+            "request": "launch",
+            "mainClass": "hashset",
+            "projectName": "java_6479ecf8"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Arraylist",
+            "request": "launch",
+            "mainClass": "Arraylist",
+            "projectName": "java_6479ecf8"
+        },
+        {
+            "type": "java",
+            "name": "EmloyeeManagementSystem",
+            "request": "launch",
+            "mainClass": "EmloyeeManagementSystem",
+            "projectName": "java_6479ecf8"
+        },
+        {
+            "type": "java",
+            "name": "LibrarySystem",
+            "request": "launch",
+            "mainClass": "LibrarySystem",
+            "projectName": "java_6479ecf8"
+        },
+        {
+            "type": "java",
+            "name": "Q1",
+            "request": "launch",
+            "mainClass": "Q1",
+            "projectName": "java_6479ecf8"
+        },
+        {
+            "type": "java",
+            "name": "Q2",
+            "request": "launch",
+            "mainClass": "Q2",
+            "projectName": "java_6479ecf8"
+        },
+        {
+            "type": "java",
+            "name": "ShapeDrawingApplication",
+            "request": "launch",
+            "mainClass": "ShapeDrawingApplication",
+            "projectName": "java_6479ecf8"
+        },
+        {
+            "type": "java",
+            "name": "VehicleTest",
+            "request": "launch",
+            "mainClass": "VehicleTest",
+            "projectName": "java_6479ecf8"
+        }
+    ]
+}
