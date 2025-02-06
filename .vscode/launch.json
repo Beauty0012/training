@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Userservice",
+            "request": "launch",
+            "mainClass": "Userservice",
+            "projectName": "java_6479ecf8"
+        },
+        {
+            "type": "java",
+            "name": "userservice",
+            "request": "launch",
+            "mainClass": "userservice",
+            "projectName": "java_6479ecf8"
+        },
+        {
+            "type": "java",
+            "name": "EmployeeStream",
+            "request": "launch",
+            "mainClass": "EmployeeStream",
+            "projectName": "java_6479ecf8"
+        },
+        {
+            "type": "java",
+            "name": "stream_api",
+            "request": "launch",
+            "mainClass": "stream_api",
+            "projectName": "java_6479ecf8"
+        },
+        {
+            "type": "java",
+            "name": "stream",
+            "request": "launch",
+            "mainClass": "stream",
+            "projectName": "java_6479ecf8"
+        },
+        {
+            "type": "java",
+            "name": "lambda",
+            "request": "launch",
+            "mainClass": "lambda",
+            "projectName": "java_6479ecf8"
+        },
+        {
+            "type": "java",
             "name": "hashmap",
             "request": "launch",
             "mainClass": "hashmap",
